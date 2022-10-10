@@ -1,8 +1,8 @@
-# React Router 기능 구현
+# Next.js로 블로그페이지 구현
 
 ## 데모
 
-[🚀데모페이지](https://glittering-madeleine-0389e3.netlify.app/)
+[🚀데모페이지](https://nextjs-blog-typescript-rouge.vercel.app/)
 
 ## 실행방법
 
